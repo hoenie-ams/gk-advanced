@@ -4,7 +4,7 @@ def multiply(x, y):
 
 
 def divide(x, y):
-    return round(x / y)
+    return round(x / y, 1)
 
 
 def round_up(x):
