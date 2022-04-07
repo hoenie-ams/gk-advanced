@@ -1,4 +1,4 @@
-from pythontraining.mathematics import multiply, divide, round_up
+from src.pythontraining.mathematics import multiply, divide, round_up
 
 
 def test_multiply():
