@@ -1,3 +1,7 @@
 pytest==7.1.1
 requests==2.27.1
 SQLAlchemy~=1.4.35
+fastapi~=0.75.1
+metar~=1.9.0
+pandas~=1.4.2
+beautifulsoup4~=4.10.0
